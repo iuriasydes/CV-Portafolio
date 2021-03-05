@@ -492,8 +492,8 @@ progress::-webkit-progress-value{
   height: 100%;
 }
 .portfolio-card img{
-  max-width: 400px;
-  max-height: 400px;
+  max-width: 100%;
+  max-height: 100%;
   object-fit: cover;/*Ajusta la imagen sin deformarla*/
 }
 .portfolio-modal{
